@@ -1,5 +1,6 @@
 # Text-Editor-PWA
 By: thandyn
+
 Email: nguyenphuthan@gmail.com
 
 ## Description
@@ -58,8 +59,10 @@ To test this project, run `npm run start` from the root directory. Go onto the b
 
 ## Questions
 If you have any questions, please email me at: nguyenphuthan@gmail.com. 
+
 For more information, please visit my Github link: https://github.com/thandyn/.
 
 ## Links 
 Github repo: https://github.com/thandyn/Text-Editor-PWA
+
 Deployed website: https://tranquil-caverns-71777.herokuapp.com/
