@@ -35,7 +35,7 @@ The following image shows the application's registered service worker. We had to
 
 This image shows the application indexedDB storage. We had to add 2 routes in the `database.js` to PUT and GET database.
 
-![alt text](./images/5.PNG)
+![alt text](./images/5.png)
 
 When users click on install, a prompt will pop up and ask user if they wish to install on their local machine. The button will not work if user already have the web application installed on their computer.
 
