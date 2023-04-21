@@ -12,6 +12,7 @@ This project demonstrates using PWA to develope a code to make a text editor wit
   - [License](#license)
   - [Contribute](#contribute)
   - [Test](#test)
+  - [Links](#links)
 
 ## Installation
 The steps to install packages is to open terminal and typing in `npm install` in the root directory to install the packages to client and server folder. 
@@ -58,3 +59,7 @@ To test this project, run `npm run start` from the root directory. Go onto the b
 ## Questions
 If you have any questions, please email me at: nguyenphuthan@gmail.com. 
 For more information, please visit my Github link: https://github.com/thandyn/.
+
+## Links 
+Github repo: https://github.com/thandyn/Text-Editor-PWA
+Deployed website: https://tranquil-caverns-71777.herokuapp.com/
